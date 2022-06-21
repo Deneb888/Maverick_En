@@ -1,0 +1,225 @@
+D:\zding\Anit12\Software\Polyfit\PolyFitCSharp\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Polyfit\PolyFitCSharp\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Polyfit\PolyFitCSharp\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Polyfit\PolyFitCSharp\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Polyfit\PolyFitCSharp\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Polyfit\PolyFitCSharp\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-11-19-Polyf\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-11-19-Polyf\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-11-19-Polyf\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-11-19-Polyf\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-11-19-Polyf\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-11-19-Polyf\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-28-19-Polyfit\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-28-19-Polyfit\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-28-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-28-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-28-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-28-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\Anitoa6-2-19-Polyfit\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\Anitoa6-2-19-Polyfit\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\Anitoa6-2-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\Anitoa6-2-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\Anitoa6-2-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\Anitoa6-2-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-28-19-StdCurve\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-28-19-StdCurve\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-28-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-28-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-28-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-28-19-StdCurve\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-25-19-Eng-Quant\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-25-19-Eng-Quant\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-25-19-Eng-Quant\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-25-19-Eng-Quant\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-25-19-Eng-Quant\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-25-19-Eng-Quant\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-28-19-Eng-MeltImprov\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-28-19-Eng-MeltImprov\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-28-19-Eng-MeltImprov\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-28-19-Eng-MeltImprov\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-28-19-Eng-MeltImprov\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa11-28-19-Eng-MeltImprov\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa12-9-19-Eng-LowCtImprov\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa12-9-19-Eng-LowCtImprov\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa12-9-19-Eng-LowCtImprov\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa12-9-19-Eng-LowCtImprov\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa12-9-19-Eng-LowCtImprov\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa12-9-19-Eng-LowCtImprov\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-23-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-23-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-23-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-23-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-23-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-23-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb

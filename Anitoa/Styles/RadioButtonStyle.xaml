@@ -1,0 +1,442 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Storyboard x:Key="Storyboard1">
+        <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="Main">
+            <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+            <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+        </DoubleAnimationUsingKeyFrames>
+    </Storyboard>
+
+
+
+    <Style x:Key="rbClose" TargetType="RadioButton" >
+        <Setter Property="Background">
+            <Setter.Value>
+                <ImageBrush ImageSource="/Anitoa;component/Images/00-关闭1.PNG"></ImageBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="10"/>
+        <Setter Property="Height" Value="10"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="RadioButton">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border Name="bdmain" Background="Transparent" Margin="-10">
+                        <Border x:Name="bd"  Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"  BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="0" BorderBrush="{TemplateBinding BorderBrush}"  Background="{TemplateBinding Background}" >
+                        </Border>
+                    </Border>
+
+                    <ControlTemplate.Triggers >
+
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" TargetName="bd">
+                                <Setter.Value>
+                                    <ImageBrush ImageSource="/Anitoa;component/Images/00-关闭2.PNG"></ImageBrush>
+                                </Setter.Value>
+                            </Setter>
+                            <Setter Property="Background" TargetName="bdmain" Value="Red"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbMax" TargetType="RadioButton" >
+        <Setter Property="Background">
+            <Setter.Value>
+                <ImageBrush ImageSource="/Anitoa;component/Images/00-最大化1.PNG"></ImageBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="10"/>
+        <Setter Property="Height" Value="10"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="RadioButton">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border Name="bdmain" Background="Transparent" Margin="-10">
+                        <Border x:Name="bd"  Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"  BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="0" BorderBrush="{TemplateBinding BorderBrush}"  Background="{TemplateBinding Background}" >
+                        </Border>
+                    </Border>
+                    <ControlTemplate.Triggers >
+
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" TargetName="bd">
+                                <Setter.Value>
+                                    <ImageBrush ImageSource="/Anitoa;component/Images/00-最大化2.PNG"></ImageBrush>
+                                </Setter.Value>
+                            </Setter>
+                            <Setter Property="Background" TargetName="bdmain" Value="white"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbMin" TargetType="RadioButton" >
+        <Setter Property="Background">
+            <Setter.Value>
+                <ImageBrush ImageSource="/Anitoa;component/Images/00-最小化1.PNG"></ImageBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="10"/>
+        <Setter Property="Height" Value="10"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="RadioButton">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border Name="bdmain" Background="Transparent" Margin="-10">
+                        <Border x:Name="bd"  Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"  BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="0" BorderBrush="{TemplateBinding BorderBrush}"  Background="{TemplateBinding Background}" >
+                        </Border>
+                    </Border>
+                    <ControlTemplate.Triggers >
+
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" TargetName="bd">
+                                <Setter.Value>
+                                    <ImageBrush ImageSource="/Anitoa;component/Images/00-最小化2.PNG"></ImageBrush>
+                                </Setter.Value>
+                            </Setter>
+                            <Setter Property="Background" TargetName="bdmain" Value="white"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbButton" TargetType="RadioButton" >
+        <!--<Setter Property="Background">
+            <Setter.Value>
+                <ImageBrush ImageSource="/TrainerRoad;component/Images/1-训练课程.PNG"></ImageBrush>
+            </Setter.Value>
+        </Setter>-->
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#143300"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="142"/>
+        <Setter Property="Height" Value="60"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="RadioButton">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <!--<Border x:Name="bd"  Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"  BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="0" BorderBrush="{TemplateBinding BorderBrush}"  Background="{TemplateBinding Background}" >
+                    </Border>-->
+                    <Grid x:Name="sp" HorizontalAlignment="Stretch" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" VerticalAlignment="Center" Background="{TemplateBinding Background}" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Name="lblone" Foreground="Black" HorizontalAlignment="Center"  Content="{TemplateBinding Content}" FontSize="14"  VerticalAlignment="Center" ></Label>
+                        <Border Name="borone" Grid.Row="1" Height="3" Background="Black" VerticalAlignment="Top" Margin="0,10,0,0"></Border>
+                    </Grid>
+                    <ControlTemplate.Triggers >
+                        <Trigger Property="IsChecked" Value="true">
+                            <Setter Property="Foreground" TargetName="lblone" Value="#00AAFF"></Setter>
+                            <Setter Property="Background" TargetName="borone" Value="#00AAFF"></Setter>
+                        </Trigger>
+                        <!--<Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Visibility" TargetName="img" Value="Visible">
+
+                            </Setter>
+                        </Trigger>-->
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+    <Style x:Key="rbMd" TargetType="RadioButton" >
+        <Setter Property="Background" Value="#E5E4E2"></Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#505050"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="70"/>
+        <Setter Property="Height" Value="25"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="RadioButton">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border Name="bdmain" Background="Transparent">
+                        <Border x:Name="bd" CornerRadius="5" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"  BorderThickness="{TemplateBinding BorderThickness}"  BorderBrush="{TemplateBinding BorderBrush}"  Background="{TemplateBinding Background}" >
+                            <Label x:Name="bdlabel" Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{TemplateBinding Foreground}"></Label>
+                        </Border>
+                    </Border>
+                    <ControlTemplate.Triggers >
+
+                        <Trigger Property="IsChecked" Value="true">
+                            <Setter Property="Background" TargetName="bd" Value="#0655BA"></Setter>
+                            <Setter Property="Foreground" TargetName="bdlabel" Value="White"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbMdItems" TargetType="RadioButton" >
+        <Setter Property="Background" Value="#E5E4E2"></Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#505050"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="90"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="RadioButton">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <StackPanel Name="bdmain"  Orientation="Horizontal">
+                        <Border x:Name="bd" CornerRadius="5" Background="White" Width="10" Height="10" VerticalAlignment="Center"></Border>
+                        <Label x:Name="bdlabel" FontSize="13" Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black"></Label>
+                    </StackPanel>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsChecked" Value="true">
+                            <Setter Property="Background" TargetName="bd" Value="#0655BA"></Setter>
+                            <Setter Property="Foreground" TargetName="bdlabel" Value="#4E4E4E"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbButtons" TargetType="RadioButton" >
+        <Setter Property="Background" Value="#E5E4E2"></Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#505050"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="70"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="RadioButton">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" Background="#0756BB" CornerRadius="5" Cursor="Hand">
+                        <Label Content="{TemplateBinding Content}" Foreground="White" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center"></Label>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbButtonsNew" TargetType="RadioButton" >
+        <Setter Property="Background" Value="#DDDDDD"></Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#505050"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="90"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="RadioButton">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border Width="{TemplateBinding Width}" Name="bd" Height="30" Background="{TemplateBinding Background}" CornerRadius="5" Cursor="Hand">
+                        <Label Content="{TemplateBinding Content}" Name="bdlabel" Foreground="Black" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center"></Label>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsChecked" Value="true">
+                            <Setter Property="Background" TargetName="bd" Value="#0655BA"></Setter>
+                            <Setter Property="Foreground" TargetName="bdlabel" Value="white"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbButtonsK" TargetType="RadioButton" >
+        <Setter Property="Background" Value="#DDDDDD"></Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#505050"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="45"/>
+        <Setter Property="Height" Value="45"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="RadioButton">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border  Name="bd" Height="{TemplateBinding Height}" Width="{TemplateBinding Width}" Background="{TemplateBinding Background}" CornerRadius="100" Cursor="Hand">
+                        <Label Content="{TemplateBinding Content}" Name="bdlabel" Foreground="Black" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center"></Label>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsChecked" Value="true">
+                            <Setter Property="Background" TargetName="bd" Value="#0655BA"></Setter>
+                            <Setter Property="Foreground" TargetName="bdlabel" Value="white"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbButtonsCheckBox" TargetType="CheckBox" >
+        <Setter Property="Background" Value="#DDDDDD"></Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#505050"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="39"/>
+        <Setter Property="Height" Value="36"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="CheckBox">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border  Name="bd" Height="{TemplateBinding Height}" Width="{TemplateBinding Width}" Background="{TemplateBinding Background}" CornerRadius="100" Cursor="Hand">
+                        <Label Content="{TemplateBinding Content}" Visibility="Collapsed" Name="bdlabel" Foreground="Black" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center"></Label>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsChecked" Value="true">
+                            <Setter Property="Background" TargetName="bd" Value="#0655BA"></Setter>
+                            <Setter Property="Foreground" TargetName="bdlabel" Value="white"></Setter>
+                            <Setter Property="Visibility" TargetName="bdlabel" Value="Visible"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbButtonsCheckBoxK" TargetType="CheckBox" >
+        <Setter Property="Background" Value="#DDDDDD"></Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#505050"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="80"/>
+        <Setter Property="Height" Value="31"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="CheckBox">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border  Name="bd" Height="{TemplateBinding Height}" Width="{TemplateBinding Width}" Background="{TemplateBinding Background}" Cursor="Hand">
+                        <Label Content="{TemplateBinding Content}" Name="bdlabel" Foreground="Black" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center"></Label>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsChecked" Value="true">
+                            <Setter Property="Background" TargetName="bd" Value="#0655BA"></Setter>
+                            <Setter Property="Foreground" TargetName="bdlabel" Value="white"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="rbButtonsCheckBoxStd" TargetType="CheckBox" >
+        <Setter Property="Background" Value="#DDDDDD"></Setter>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Foreground" Value="#505050"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Width" Value="42"/>
+        <Setter Property="Height" Value="42"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <!--修改模板属性-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <!--控件模板-->
+                <ControlTemplate TargetType="CheckBox">
+                    <!--背景色-->
+                    <!--前景色及边框-->
+                    <Border  Name="bd" Height="{TemplateBinding Height}" Width="{TemplateBinding Width}" Background="{TemplateBinding Background}" CornerRadius="100" Cursor="Hand">
+                        <Label Content="{TemplateBinding Content}" Visibility="Collapsed" Name="bdlabel" Foreground="Black" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center"></Label>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsChecked" Value="true">
+                            <!--<Setter Property="Background" TargetName="bd" Value="#0655BA"></Setter> This will be defined gramatically-->
+                            <Setter Property="Foreground" TargetName="bdlabel" Value="white"></Setter>
+                            <Setter Property="Visibility" TargetName="bdlabel" Value="Visible"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

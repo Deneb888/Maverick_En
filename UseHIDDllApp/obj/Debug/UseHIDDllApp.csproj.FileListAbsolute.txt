@@ -1,0 +1,557 @@
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojResolveAssemblyReference.cache
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.Cache
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+E:\wangjunhua\C#2010\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojResolveAssemblyReference.cache
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.Cache
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojResolveAssemblyReference.cache
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.Cache
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zjco\Desktop\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojResolveAssemblyReference.cache
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.Cache
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+E:\安塔\generic_hid_cs\generic_hid_cs0716\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\Administrator\Desktop\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\C#Tachy\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojResolveAssemblyReference.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.Cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-5-19\generic_hid_cs - GUIWork\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojResolveAssemblyReference.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.Cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojResolveAssemblyReference.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.Cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Experiment\Anitoa1-27-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\C# Beta\Anitoa2-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\Anitoa3-1-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Anitoa3-14-19\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa4-25-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Anitoa4-28-19-16wells\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-7-19-Melt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Anitoa5-8-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Polyfit\Anitoa5-9-19-MeltGUI\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Anitoa5-28-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Anitoa6-4-19-Polyfit\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa6-11-19-English\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-22-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Std curve\Anitoa6-24-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\Std curve\Anitoa6-27-19-StdCurve\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Anitoa7-23-19-Eng-Lumin\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa8-19-19-Eng-LuminLite\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\Lumin version\Lite\Anitoa9-2-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa10-28-19-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Anitoa11-7-19-Eng-IntTimeFix\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-25-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\wa\Anitoa1-28-20-Eng-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\Work area\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe.config
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe.config
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe.config
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe.config
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe.config
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\UseHIDDllApp.pdb
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.exe
+C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Debug\UseHIDDllApp.pdb

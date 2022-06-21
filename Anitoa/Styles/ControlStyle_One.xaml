@@ -1,0 +1,72 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    >
+
+
+ 
+
+
+    <Style x:Key="TextBlock1" TargetType="TextBlock" >
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="Foreground" Value="#C0C3C9"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+    </Style>
+    <Style x:Key="TextBlock2" TargetType="TextBlock" >
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="Foreground" Value="#C0C3C9"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+    </Style>
+    <Style x:Key="TextBlock3" TargetType="TextBlock" >
+        <Setter Property="FontSize" Value="10"/>
+        <Setter Property="Foreground" Value="#8A8A94"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+    </Style>
+    <Style x:Key="TextBlock4" TargetType="TextBlock" >
+        <Setter Property="FontSize" Value="11"/>
+        <Setter Property="Foreground" Value="#8A8A94"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+    </Style>
+    <Style x:Key="TextBlock5" TargetType="TextBlock" >
+        <Setter Property="FontSize" Value="13"/>
+        <Setter Property="Foreground" Value="#C0C3C9"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+    </Style>
+
+    <Style x:Key="TextBlock6" TargetType="TextBlock" >
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="Foreground" Value="#C0C3C9"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="VerticalAlignment" Value="Bottom"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="Margin" Value="0,0,0,5"/>
+    </Style>
+    <Style x:Key="TextBlock7" TargetType="TextBlock" >
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="Foreground" Value="#C0C3C9"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+    </Style>
+    <Style x:Key="TextBox1" TargetType="TextBox" >
+        <Setter Property="Background" Value="Transparent"></Setter>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="HorizontalContentAlignment" Value="Right"></Setter>
+        <Setter Property="VerticalAlignment" Value="Bottom"/>
+        <Setter Property="HorizontalAlignment" Value="Right"/>
+        <Setter Property="Margin" Value="0,0,0,5"/>
+        <Setter Property="BorderThickness" Value="0"></Setter>
+    </Style>
+   
+
+  
+</ResourceDictionary>

@@ -1,0 +1,227 @@
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.Cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zhimi\Documents\dingz\Anit11\Software\C#Try2\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Anitoa7-17-19-Eng-Lumin\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa9-2-19-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa9-2-19-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa9-2-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa9-2-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa9-2-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa9-2-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa9-2-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa9-2-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Anitoa10-25-19-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Working\Anitoa11-4-19-Eng-MultiPer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa12-23-19-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa1-15-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa1-15-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa1-15-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa1-15-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa1-15-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa1-15-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa1-15-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\ClonTech\Anitoa1-15-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\ClonTech\Anitoa1-27-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\ClonTech\Anitoa1-27-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\ClonTech\Anitoa1-27-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\ClonTech\Anitoa1-27-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\ClonTech\Anitoa1-27-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\ClonTech\Anitoa1-27-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\ClonTech\Anitoa1-27-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\ClonTech\Anitoa1-27-20-Eng-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+E:\Tmp\English\Anitoa2-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa3-21-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+E:\WorkArea\English\Anitoa5-1-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+F:\WorkArea\English\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+F:\WorkArea\English\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+F:\WorkArea\English\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+F:\WorkArea\English\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+F:\WorkArea\English\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+F:\WorkArea\English\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+F:\WorkArea\English\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+F:\WorkArea\English\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\zding\Anit12\Software\Beta\English\Golden\Anitoa5-7-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta 2\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\Work area\Beta c#\English\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\zding\Anit12\Software\c# beta\English\Working\Anitoa6-13-20-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\WorkArea\Anitoa6-13-20-Eng-Settings\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\WorkArea\Anitoa6-13-20-Eng-Settings\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\WorkArea\Anitoa6-13-20-Eng-Settings\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\WorkArea\Anitoa6-13-20-Eng-Settings\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\WorkArea\Anitoa6-13-20-Eng-Settings\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\WorkArea\Anitoa6-13-20-Eng-Settings\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\WorkArea\Anitoa6-13-20-Eng-Settings\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\WorkArea\Anitoa6-13-20-Eng-Settings\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+E:\WorkArea\English\Anitoa6-13-20-Eng-Settings15000\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+E:\WorkArea\English\Anitoa6-13-20-Eng-Settings15000\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+E:\WorkArea\English\Anitoa6-13-20-Eng-Settings15000\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+E:\WorkArea\English\Anitoa6-13-20-Eng-Settings15000\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+E:\WorkArea\English\Anitoa6-13-20-Eng-Settings15000\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+E:\WorkArea\English\Anitoa6-13-20-Eng-Settings15000\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+E:\WorkArea\English\Anitoa6-13-20-Eng-Settings15000\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+E:\WorkArea\English\Anitoa6-13-20-Eng-Settings15000\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\English\Anitoa12-19-20-Eng-MultiGap-Merge\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\WorkArea\English\Anitoa4-30-21-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\WorkArea\English\Anitoa4-30-21-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\WorkArea\English\Anitoa4-30-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\WorkArea\English\Anitoa4-30-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\WorkArea\English\Anitoa4-30-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\WorkArea\English\Anitoa4-30-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\WorkArea\English\Anitoa4-30-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\WorkArea\English\Anitoa4-30-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\WorkArea\English\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\Tachy-2021\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\Tachy-2021\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\Tachy-2021\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\Tachy-2021\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\Tachy-2021\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\Tachy-2021\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\Tachy-2021\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\Tachy-2021\WorkArea\English\Hi Ct Study\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csprojAssemblyReference.cache
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb

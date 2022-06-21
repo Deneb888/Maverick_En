@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C2416CDF-2FEC-4AFB-B7F8-DB29B27D2E77}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Anitoa</RootNamespace>
+    <AssemblyName>Anitoa</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>mv-icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v12.1.Core">
+      <HintPath>lib\DevExpress.Charts.v12.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v12.1">
+      <HintPath>lib\DevExpress.Data.v12.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xpf.Charts.v12.1">
+      <HintPath>lib\DevExpress.Xpf.Charts.v12.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xpf.Core.v12.1">
+      <HintPath>lib\DevExpress.Xpf.Core.v12.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xpf.LayoutControl.v12.1">
+      <HintPath>lib\DevExpress.Xpf.LayoutControl.v12.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xpf.Printing.v12.1">
+      <HintPath>lib\DevExpress.Xpf.Printing.v12.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\x86\Debug\Office.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Assay.cs" />
+    <Compile Include="BaseData.cs" />
+    <Compile Include="CCurveShow.cs" />
+    <Compile Include="CCurveShowMet.cs" />
+    <Compile Include="ChartData.cs" />
+    <Compile Include="Pages\ucAssaySetup.xaml.cs">
+      <DependentUpon>ucAssaySetup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucRunCovid.xaml.cs">
+      <DependentUpon>ucRunCovid.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucSampleSetup.xaml.cs">
+      <DependentUpon>ucSampleSetup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucSplash.xaml.cs">
+      <DependentUpon>ucSplash.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TempModel.cs" />
+    <Compile Include="DebugModelData.cs" />
+    <Compile Include="ExcelEdit.cs" />
+    <Compile Include="experiment.cs" />
+    <Compile Include="experimentExt.cs" />
+    <Compile Include="NumTextBox.cs" />
+    <Compile Include="Pages\ucRJBZ.xaml.cs">
+      <DependentUpon>ucRJBZ.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucRongJQX.xaml.cs">
+      <DependentUpon>ucRongJQX.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucStepInfo.xaml.cs">
+      <DependentUpon>ucStepInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucwdItem.xaml.cs">
+      <DependentUpon>ucwdItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Protocol.cs" />
+    <Compile Include="RJQXModelData.cs" />
+    <Compile Include="SqLiteHelper.cs" />
+    <Compile Include="TrimReader.cs" />
+    <Compile Include="t_experiment.cs" />
+    <Compile Include="t_user.cs" />
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CommData.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Pages\ucAssaySetup.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\ucCyCling.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucHold.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucReportOne.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucReportThree.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucReportTWO.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucRJBZ.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\ucRongJQX.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucRunCovid.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\ucRunFour.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucRunItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucRunOne.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucRunThree.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucRunTwo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucSampleSetup.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\ucSettingOne.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucSettingTwo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucSplash.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\ucStepInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucTDItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucTiaoShiMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucTiaoShiOne.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucTiaoShiThree.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucTiaoShiTwo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucwdItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ucWenDuItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles\CheckBoxStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles\ComboBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles\ControlStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles\ControlStyle_One.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles\DataGrid.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles\RadioButtonStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles\ScrollViewerStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles\SliderStyle1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles\SliderStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pages\ucCyCling.xaml.cs">
+      <DependentUpon>ucCyCling.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucHold.xaml.cs">
+      <DependentUpon>ucHold.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucLogin.xaml.cs">
+      <DependentUpon>ucLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucMain.xaml.cs">
+      <DependentUpon>ucMain.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucReportOne.xaml.cs">
+      <DependentUpon>ucReportOne.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucReportThree.xaml.cs">
+      <DependentUpon>ucReportThree.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucReportTWO.xaml.cs">
+      <DependentUpon>ucReportTWO.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucRunFour.xaml.cs">
+      <DependentUpon>ucRunFour.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucRunItem.xaml.cs">
+      <DependentUpon>ucRunItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucRunOne.xaml.cs">
+      <DependentUpon>ucRunOne.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucRunThree.xaml.cs">
+      <DependentUpon>ucRunThree.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucRunTwo.xaml.cs">
+      <DependentUpon>ucRunTwo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucSettingOne.xaml.cs">
+      <DependentUpon>ucSettingOne.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucSettingTwo.xaml.cs">
+      <DependentUpon>ucSettingTwo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucTDItem.xaml.cs">
+      <DependentUpon>ucTDItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucTiaoShiMain.xaml.cs">
+      <DependentUpon>ucTiaoShiMain.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucTiaoShiOne.xaml.cs">
+      <DependentUpon>ucTiaoShiOne.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucTiaoShiThree.xaml.cs">
+      <DependentUpon>ucTiaoShiThree.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucTiaoShiTwo.xaml.cs">
+      <DependentUpon>ucTiaoShiTwo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ucWenDuItem.xaml.cs">
+      <DependentUpon>ucWenDuItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="lib\System.Data.SQLite.dll.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="mv-icon.ico" />
+    <Resource Include="Images\1.png" />
+    <Resource Include="Images\mg.png" />
+    <Resource Include="Images\bg.png" />
+    <Resource Include="Images\00-关闭1.png" />
+    <Resource Include="Images\00-关闭2.png" />
+    <Resource Include="Images\00-最大化1.png" />
+    <Resource Include="Images\00-最大化2.png" />
+    <Resource Include="Images\00-最小化1.png" />
+    <Resource Include="Images\00-最小化2.png" />
+    <Resource Include="Images\mima.png" />
+    <Resource Include="Images\xiayibu.png" />
+    <Resource Include="Images\xiayibufill.png" />
+    <Resource Include="Images\zhanghao.png" />
+    <Resource Include="Images\分析.png" />
+    <Resource Include="Images\实验.png" />
+    <Resource Include="Images\报告.png" />
+    <Resource Include="Images\调试.png" />
+    <Resource Include="Images\用户.png" />
+    <Resource Include="Images\yh.png" />
+    <Resource Include="Images\退出.png" />
+    <Resource Include="Images\图片1.png" />
+    <Resource Include="Images\luminlogo.png" />
+    <Resource Include="Images\run.png" />
+    <Resource Include="Images\mv-icon.ico" />
+    <Resource Include="Images\mv-icon.png" />
+    <Resource Include="Images\dna-art.png" />
+    <Resource Include="Images\clontech_only_CMYK_v1807_white.png" />
+    <Resource Include="Images\cronostar_icon.ico" />
+    <Resource Include="cronostar_icon.ico" />
+    <Resource Include="Images\cronostar_icon.png" />
+    <Resource Include="Images\settings-128.png" />
+    <Content Include="lib\FileHelpers.dll" />
+    <Content Include="lib\HtmlTextBlock.dll" />
+    <Content Include="lib\InTheHand.Net.Personal.dll" />
+    <Content Include="lib\Newtonsoft.Json.dll" />
+    <Content Include="lib\System.Data.SQLite.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PolynomialRegression\PolynomialRegression.csproj">
+      <Project>{b6715b15-3448-4044-a85e-08e3870c71f9}</Project>
+      <Name>PolynomialRegression</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\USBHiDLib\GenericHid.csproj">
+      <Project>{a6e0f52f-4599-4758-b956-9e8420fd28a8}</Project>
+      <Name>GenericHid</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
