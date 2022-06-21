@@ -1,0 +1,119 @@
+﻿<Window x:Class="Anitoa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Maverick qPCR" WindowState="Normal"  Width="1366" Height="768" WindowStyle="None"  ResizeMode="CanResizeWithGrip" AllowsTransparency="True" Icon="/Anitoa;component/Images/mv-icon.png"  WindowStartupLocation="CenterScreen">
+        <!--Title="CronoStar qPCR" WindowState="Normal"  Width="1332" Height="749" WindowStyle="None"  ResizeMode="CanResizeWithGrip" AllowsTransparency="True" Icon="/Anitoa;component/Images/cronostar_icon.png"  WindowStartupLocation="CenterScreen">-->
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/RadioButtonStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Viewbox Stretch="Fill">
+        <Grid Width="1366" Height="768" Background="#4E4E4E">
+        <!--<Grid Width="1366" Height="768" Background="#4E4E4E">-->            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="55"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.6*"></ColumnDefinition>
+                <ColumnDefinition Width="0.4*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Border Grid.ColumnSpan="2" Background="#4E4E4E"></Border>
+            <Border Grid.ColumnSpan="2" Background="Transparent" MouseLeftButtonDown="Window_MouseLeftButtonDown"></Border>
+            <StackPanel HorizontalAlignment="Center" Grid.ColumnSpan="2" VerticalAlignment="Center" Orientation="Horizontal" >
+                <TextBlock Name="txtHid" Text="HID Device Status" VerticalAlignment="Center" Foreground="White" Margin="100,0,0,0"></TextBlock>
+                <!--HID设备已连接-->
+                <Border Width="10" Height="10" Background="#2EEF0A" CornerRadius="10" Margin="10,0,0,0" Name="bd1" Visibility="Collapsed"></Border>
+                <Border Width="10" Height="10" Background="Red" CornerRadius="10" Margin="10,0,0,0" Name="bd2" Visibility="Collapsed"></Border>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10,0,0,0">
+                <!--<Image Source="/Anitoa;component/Images/luminlogo.png" Stretch="Fill"  Margin="10" Visibility="Visible"></Image>-->
+                <Image Source="/Anitoa;component/Images/图片1.png" Stretch="Fill"  Margin="10" Visibility="Visible"></Image>
+                <!--<Image Source="/Anitoa;component/Images/clontech_only_CMYK_v1807_white.png" Stretch="Fill" RenderOptions.EdgeMode="Aliased" RenderOptions.BitmapScalingMode="HighQuality" Margin="18" Visibility="Visible"></Image>-->
+                <!--<TextBlock Text="" FontSize="15" Foreground="White" VerticalAlignment="Center"></TextBlock>-->
+                <RadioButton Name="yhsetting" Visibility="Collapsed" Style="{DynamicResource rbMd}" Content="Setup"  Margin="10,0,10,0" Height ="27" Checked="yhsetting_Click"></RadioButton>
+                <!-- "新建实验" -->
+                <RadioButton Name="rboRun" Visibility="Collapsed" Style="{DynamicResource rbMd}" Content="Run" Margin="0,0,10,0"  Height ="27" Checked="yhsetting_Click"></RadioButton>
+                <!--运行-->
+                <RadioButton Name="fenxidata" Visibility="Collapsed" Style="{DynamicResource rbMd}" Content="Analysis"  Height ="27" Checked="yhsetting_Click"></RadioButton>
+                <!--分析数据-->
+                <RadioButton Name="baogaodayin" Visibility="Collapsed" Style="{DynamicResource rbMd}" Content="Report" Margin="10,0,10,0"  Height ="27" Checked="yhsetting_Click"></RadioButton>
+                <!-- 报告/打印 -->
+                <RadioButton Name="xitongtiaoshi" Style="{DynamicResource rbMd}" Content="[Settings]"  Height ="27"  Checked="yhsetting_Click" Visibility="Collapsed"></RadioButton>
+                <!-- 调试-->
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
+                <StackPanel Orientation="Horizontal" Name="spxzsy" Visibility="Collapsed">
+                    <TextBlock Text="选择实验：" VerticalAlignment="Center" Foreground="White" Visibility="Hidden"></TextBlock>
+                    <ComboBox Width="200" Height="27" Name="cboExperiment" VerticalContentAlignment="Center" SelectionChanged="cboExperiment_SelectionChanged" Margin="0,0,10,0" IsEditable="True" IsTextSearchEnabled="True" Visibility="Hidden"></ComboBox>
+                </StackPanel>
+
+                <Button Content="获取积分时间" Height="30" Margin="0,0,10,0" Click="Button_Click_6" Visibility="Collapsed" Cursor="Hand"></Button>
+                <Image Source="Images/yh.png" Width="28" Cursor="Hand" Visibility="Collapsed"></Image>
+                <TextBlock Name="txtUser" VerticalAlignment="Center" Foreground="White" Margin="0,0,20,0"></TextBlock>
+                <Image Name="settings" Source="Images/settings-128.png" Width="26" Cursor="Hand" Margin="0,0,20,0" MouseLeftButtonDown="Image_SettingsClick" ToolTip="Settings" Visibility="Visible"></Image>
+                <Image Source="Images/退出.png" Width="26" Cursor="Hand" Margin="0,0,20,0" MouseLeftButtonDown="Image_MouseLeftButtonDown" ToolTip="Home"></Image>
+                <RadioButton Name="rbMin" Click="rbMin_Checked" Style="{DynamicResource rbMin}" Margin="10,0" Cursor="Hand"></RadioButton>
+                <RadioButton Name="rbMax" Click="rbMin_Checked"  Style="{DynamicResource rbMax}" Margin="10,0"></RadioButton>
+                <RadioButton Name="rbClose" Click="rbMin_Checked"  Style="{DynamicResource rbClose}" Margin="20,0,30,0"></RadioButton>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2" Visibility="Collapsed">
+                <Button Width="60" Content="测试" Click="Button_Click"></Button>
+                <Button Width="60" Content="读取温度"  Click="Button_Click_1"></Button>
+                <Button Width="60" Content="开启设备" Click="Button_Click_5"></Button>
+                <Button Width="60" Content="关闭设备" Click="Button_Click_2"></Button>
+                <Button Width="60" Content="SetIntergrationTime" Click="Button_Click_3"></Button>
+                <Button Width="60" Content="读取图片" Click="Button_Click_4"></Button>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Orientation="Horizontal" Grid.ColumnSpan="2" Background="#E4E3E1" Visibility="Collapsed" Name="spMD" Height="45">
+                <RadioButton Name="s1" Checked="RadioButton_Checked" Tag="0" Style="{DynamicResource rbMdItems}" Content= "Sample Setup" Margin="10,0,0,0" Width="120"></RadioButton>
+                <!--"名称设置"-->
+                <RadioButton Name="s2" Checked="RadioButton_Checked" Tag="0" Style="{DynamicResource rbMdItems}" Content="Cycler Setup" Margin="20,0,0,0" Width="120"></RadioButton>
+                <!--"程序设置"-->
+                <!--<RadioButton Name="s3" Checked="RadioButton_Checked" Tag="0" Style="{DynamicResource rbMdItems}" Content="用户设置3" Margin="15,0,0,0"></RadioButton>-->
+                <RadioButton Name="y1" Checked="RadioButton_Checked" Tag="4" Style="{DynamicResource rbMdItems}" Content="Run Control" Margin="15,8,0,7.333" Width="144"></RadioButton>
+                <!--"温度历史曲线"-->
+                <!--<RadioButton Name="y2" Checked="RadioButton_Checked" Tag="4" Style="{DynamicResource rbMdItems}" Content= "Melting Curve" Margin="15,8,0,7.333" Width="138"></RadioButton>-->
+                <!--"扩增曲线"-->
+                <!--<RadioButton Name="y3" Checked="RadioButton_Checked" Tag="4" Style="{DynamicResource rbMdItems}" Content= "Temperature Curve" Margin="15,8,0,7.333" Width="108"></RadioButton>-->
+                <!--"熔解曲线"-->
+                <RadioButton Name="f1" Checked="RadioButton_Checked" Tag="1" Style="{DynamicResource rbMdItems}" Content= "Amplification" Margin="15,8,0,7.333" Width="148"></RadioButton>
+                <!--"扩增分析"-->
+                <RadioButton Name="f3" Checked="RadioButton_Checked" Tag="1" Style="{DynamicResource rbMdItems}" Content="Melting Curve" Width="148" Margin="15,0,0,0"></RadioButton>
+                <!--"分析界面3"-->
+                <RadioButton Name="f2" Checked="RadioButton_Checked" Tag="1" Style="{DynamicResource rbMdItems}" Content= "Standard Curve" Width="148" Margin="15,8,0,7.333"></RadioButton>
+                <!--"标准曲线(功能未完成)"-->                
+                <RadioButton Name="b1" Checked="RadioButton_Checked" Tag="2" Style="{DynamicResource rbMdItems}" Content= "Report"  Width="77" Margin="15,8,0,7.333"></RadioButton>
+                <!--"报告"-->
+                <!--<RadioButton Name="b2" Checked="RadioButton_Checked" Tag="2" Style="{DynamicResource rbMdItems}" Content= "Report 2 (Unfinisehd)"  Width="157" Margin="15,8,0,7.333"></RadioButton>-->
+                <!--"报告2(功能未完成)"-->
+                <!--<RadioButton Name="b3" Checked="RadioButton_Checked" Tag="2" Style="{DynamicResource rbMdItems}" Content="分析报告3" Margin="15,0,0,0"></RadioButton>-->
+                <RadioButton Name="t1" Checked="RadioButton_Checked" Tag="3" Style="{DynamicResource rbMdItems}" Width="150" Content="Debug Control" Margin="15,0,0,0"></RadioButton>
+                <RadioButton Name="t2" Checked="RadioButton_Checked" Tag="3" Style="{DynamicResource rbMdItems}" Width="150" Content="Imaging Settings" Margin="15,0,0,0"></RadioButton>
+                <RadioButton Name="t3" Checked="RadioButton_Checked" Tag="3" Style="{DynamicResource rbMdItems}" Width="130" Content="Cycler Parameters" Margin="15,0,0,0"></RadioButton>
+            </StackPanel>
+
+            <Grid Grid.Row="2" Grid.ColumnSpan="2" Name="gridMain" Background="#E4E3E1" Margin="0,0,0,30"  Visibility="Visible"></Grid>
+            <Grid Grid.RowSpan="3" Grid.ColumnSpan="2" Height="30" VerticalAlignment="Bottom" Background="#F2B938" Margin="0,0,0,1">
+                <!--<TextBlock Text="Designed for LuminUltra Technologies, Ltd" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="White" Margin="0,0,20,0"></TextBlock>-->
+                <TextBlock Name ="txtCredit" Text="Designed by Anitoa Systems, LLC" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="White" Margin="10, 6"></TextBlock>
+                <!--杭州安塔生物科技有限公司-->
+            </Grid>
+            <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Visibility="Collapsed">
+                <TextBox  Name="txt1" Height="40"></TextBox>
+                <TextBox Name="txt2" Height="40" Margin="0,20,0,20"></TextBox>
+                <TextBox Name="txt3" Height="40"></TextBox>
+                <TextBox Name="txt4" Height="40" Margin="0,20,0,20"></TextBox>
+                <TextBox Name="txtwd" Height="40" Margin="0,20,0,20"></TextBox>
+                <TextBox Name="currtxtwd" Height="40" Margin="0,20,0,20"></TextBox>
+                <TextBox Name="txtt" Height="40" Margin="0,20,0,20"></TextBox>
+                <TextBox Name="txtimg" Height="40" Margin="0,20,0,20"></TextBox>
+                <TextBox Name="txtnwd" Height="140" Margin="0,20,0,20"></TextBox>
+            </StackPanel>
+        </Grid>
+    </Viewbox>
+</Window>
