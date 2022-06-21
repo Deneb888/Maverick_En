@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="Anitoa.Pages.ucHold"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300"  Width="130" Height="460">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="330"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Border Background="#E6E6F0">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                <TextBlock Text="Pre-Denat" Name="txtJDN" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock><!--预变性阶段-->
+                <Border Visibility="Collapsed" Width="20" Height="20" Margin="5,0,0,0" BorderBrush="#4E4E4E" BorderThickness="1" Background="Transparent" Cursor="Hand" Name="bdAdd" MouseLeftButtonDown="bdAdd_MouseLeftButtonDown">
+                    <TextBlock Text="+" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock><!--加-->
+                </Border>
+                <Border Visibility="Collapsed" Width="20" Height="20" Margin="5,0,0,0" BorderBrush="#4E4E4E" BorderThickness="1" Background="Transparent" Cursor="Hand" Name="bdRemove" MouseLeftButtonDown="bdAdd_MouseLeftButtonDown">
+                    <TextBlock Text="-" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock><!--减-->
+                </Border>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="1" Background="White" BorderThickness="0,0,0,0.5" BorderBrush="#808080"></Border>
+        <Grid Grid.Row="2" Grid.RowSpan="2" Background="White" Name="gdMain" VerticalAlignment="Bottom"></Grid>
+
+        <Border Grid.RowSpan="4" BorderThickness="0,0.5,0.5,0" BorderBrush="#808080"></Border>
+    </Grid>
+</UserControl>

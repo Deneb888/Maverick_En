@@ -1,0 +1,559 @@
+﻿<UserControl x:Class="Anitoa.Pages.ucRunThree"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+xmlns:dxc="clr-namespace:DevExpress.Xpf.Charts;assembly=DevExpress.Xpf.Charts.v12.1" 
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1440">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Anitoa;component/Styles/ControlStyle.xaml" />
+                <ResourceDictionary Source="/Anitoa;component/Styles/RadioButtonStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"></RowDefinition>
+            <RowDefinition Height="45"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="55*"></ColumnDefinition>
+            <ColumnDefinition Width="89*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="40,0,0,0" Width="401">
+            <TextBlock Text="Experiment time：" VerticalAlignment="Center" Margin="10, 0, 0, 0" Width="107" Visibility="Hidden"></TextBlock>
+            <TextBlock Text="2018/05/25 15:30" Name="txtExpTime" VerticalAlignment="Center" Visibility="Hidden"></TextBlock>
+            <TextBlock Text="Time spent：" VerticalAlignment="Center" Margin="20,0,0,0" Visibility="Hidden"></TextBlock>
+            <TextBlock Text="01:30" VerticalAlignment="Center" Visibility="Hidden"></TextBlock>
+        </StackPanel>
+
+        <Grid Grid.Row="1" Grid.Column="1" Margin="0,0,0,0" Grid.RowSpan="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <TextBlock Text="Channel select:" VerticalAlignment="Center" Margin="25,0,0,0" Grid.Column="1" Grid.Row="1" Width="80" HorizontalAlignment="Left"/>
+            <ComboBox Margin="128,0,0,0" SelectionChanged="Chan_sel" HorizontalAlignment="Left" VerticalAlignment="Center" VerticalContentAlignment="Center" Height="28" Name="cboChansel" Width="85">
+                <ComboBoxItem Content="Chan 1"></ComboBoxItem>
+                <ComboBoxItem Content="Chan 2"></ComboBoxItem>
+                <ComboBoxItem Content="Chan 3"></ComboBoxItem>
+                <ComboBoxItem Content="Chan 4"></ComboBoxItem>
+            </ComboBox>
+            <TextBox Text="" Name ="txtChanName" VerticalContentAlignment="Center" Margin="230,0,0,0" Grid.Column="1" Grid.Row="1" Width="80" Height="28" HorizontalAlignment="Left"/>
+
+            <RadioButton Style="{DynamicResource rbButtons}"  Click="Clear_all" Content="Refresh..." Width="88" HorizontalAlignment="Left" Height="28"  Margin="360, 0, 0, 0" />
+
+            <!--<Button  Click="Clear_all" Content="Transfer Std Curve to Assay Property" Width="228" HorizontalAlignment="Left" Height="30"  Margin="560, 0, 0, 0" />-->
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.RowSpan="2" Grid.ColumnSpan="1" Margin="0,0,0,0">
+            <dxc:ChartControl Name="radChart"  BorderThickness="0" EnableAnimation="True"
+                              CrosshairEnabled="True" Margin="0,0,0,0"   >
+                <dxc:ChartControl.CrosshairOptions>
+                    <dxc:CrosshairOptions ShowArgumentLine="True" ShowValueLine="True"
+                                          ShowArgumentLabels="True" ShowValueLabels="True"
+                                          ShowCrosshairLabels="True"
+                                          CrosshairLabelMode="ShowForEachSeries"  />
+                </dxc:ChartControl.CrosshairOptions>
+                <dxc:ChartControl.Diagram>
+                    <dxc:XYDiagram2D Name="dcXYDiagram2D" LabelsResolveOverlappingMinIndent="2" Width="470" Height="385" VerticalAlignment="Top" Margin="0,25,0,-24.667">
+                        <dxc:XYDiagram2D.AxisY >
+                            <dxc:AxisY2D GridLinesMinorVisible="True" Visible="True" GridSpacing="2"  TickmarksMinorVisible="False">
+                                <dxc:AxisY2D.Range>
+                                    <dxc:AxisRange MinValue="10" x:Name="dcAxisRange" MaxValue="50"></dxc:AxisRange>
+                                </dxc:AxisY2D.Range>
+                            </dxc:AxisY2D>
+
+                        </dxc:XYDiagram2D.AxisY>
+                        <dxc:XYDiagram2D.AxisX>
+                            <dxc:AxisX2D DateTimeGridAlignment="Second"  DateTimeMeasureUnit="Second" Visible="True" 
+                                             GridSpacing="1"  TickmarksMinorVisible="False" Name="dxcAreaY">
+                                <dxc:AxisX2D.DateTimeOptions>
+                                    <dxc:DateTimeOptions Format="Custom" FormatString="HH:mm:ss" />
+                                </dxc:AxisX2D.DateTimeOptions>
+                                <dxc:AxisX2D.Range>
+                                    <dxc:AxisRange x:Name="dcAxisRangeX" MinValue="0" MaxValue="8"/>
+                                </dxc:AxisX2D.Range>
+
+                            </dxc:AxisX2D>
+                        </dxc:XYDiagram2D.AxisX>
+                        <dxc:XYDiagram2D.Series>
+                            <dxc:AreaSeries2D MarkerVisible="False" Name="dxcAreaX"
+                                                  AnimationAutoStartMode="SetStartState"
+                                                  DisplayName="jkl">
+                                <dxc:AreaSeries2D.Label>
+                                    <dxc:SeriesLabel ConnectorVisible="False" ResolveOverlappingMode="Default"
+                                                     Visible="False" />
+                                </dxc:AreaSeries2D.Label>
+                            </dxc:AreaSeries2D>
+                            <!--<dxc:LineSeries2D  Name="dxcLs1" MarkerVisible="False" Visible="True" Brush="#4472C4" 
+                                                  AnimationAutoStartMode="SetStartState" >
+                                <dxc:LineSeries2D.Label>
+                                    <dxc:SeriesLabel ConnectorVisible="False"
+                                                     Visible="False" />
+                                </dxc:LineSeries2D.Label>
+                                <dxc:LineSeries2D.Points>
+                                    <dxc:SeriesPoint Argument="-9" Value="42"></dxc:SeriesPoint>
+                                    <dxc:SeriesPoint Argument="-8" Value="38"></dxc:SeriesPoint>
+                                    <dxc:SeriesPoint Argument="-7" Value="34"></dxc:SeriesPoint>
+                                    <dxc:SeriesPoint Argument="-6" Value="32"></dxc:SeriesPoint>
+                                    <dxc:SeriesPoint Argument="-5" Value="28"></dxc:SeriesPoint>
+                                    <dxc:SeriesPoint Argument="-4" Value="25"></dxc:SeriesPoint>
+                                    <dxc:SeriesPoint Argument="-3" Value="23"></dxc:SeriesPoint>
+                                    <dxc:SeriesPoint Argument="-2" Value="20"></dxc:SeriesPoint>
+                                </dxc:LineSeries2D.Points>
+                            </dxc:LineSeries2D>-->
+
+                        </dxc:XYDiagram2D.Series>
+                    </dxc:XYDiagram2D>
+                </dxc:ChartControl.Diagram>
+                <dxc:ChartControl.Titles>
+                    <dxc:Title Dock="Top" HorizontalAlignment="Left" Name="ChartTitleName" FontSize ="16" Content="Ct vs. Log(Q) (Q: starting quantity)" Margin="10,0,0,0" Width="400"/>
+                </dxc:ChartControl.Titles>
+            </dxc:ChartControl>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.ColumnSpan="2">
+                <TextBlock HorizontalAlignment="Left" Margin="48,486,0,0" TextWrapping="Wrap" Text="Ct = Log(Q)  *" VerticalAlignment="Top" Width="86"/>
+                <TextBox HorizontalAlignment="Left" Name="txtParam1" Margin="0,482,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="42" Height="25"/>
+                <TextBlock HorizontalAlignment="Left" Margin="8,486,0,0" TextWrapping="Wrap" Text="  +  " VerticalAlignment="Top" Width="20"/>
+                <TextBox HorizontalAlignment="Left" Name="txtParam2" Margin="6,482,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="41" Height="25" VerticalContentAlignment="Center" />
+                <TextBlock HorizontalAlignment="Left" Margin="65,486,0,0" TextWrapping="Wrap" Text="R2 =" VerticalAlignment="Top" Width="39"/>
+                <TextBlock HorizontalAlignment="Left" Name="txtParamR2" Margin="0,486,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65"/>
+                <TextBlock HorizontalAlignment="Left" Name="txtAmpEff" Margin="-103,512,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165"/>
+            </StackPanel>
+
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="1" Margin="10,0,30,10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.17*"></RowDefinition>
+                <RowDefinition Height="0.18*"></RowDefinition>
+                <RowDefinition Height="0.18*"></RowDefinition>
+                <RowDefinition Height="0.18*"></RowDefinition>
+                <RowDefinition Height="0.55*"></RowDefinition>
+                <RowDefinition Height="0.25*"></RowDefinition>
+                <RowDefinition Height="0.12*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <!--<TextBlock Text="1" Grid.Column="1" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold"></TextBlock>
+            <TextBlock Text="2" Grid.Column="2" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold"></TextBlock>
+            <TextBlock Text="3" Grid.Column="3" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold"></TextBlock>
+            <TextBlock Text="4" Grid.Column="4" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold"></TextBlock>
+            <TextBlock Text="5" Grid.Column="5" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold"></TextBlock>
+            <TextBlock Text="6" Grid.Column="6" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold"></TextBlock>
+            <TextBlock Text="7" Grid.Column="7" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold"></TextBlock>
+            <TextBlock Text="8" Grid.Column="8" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold"></TextBlock>
+            <TextBlock Text="A" Grid.Column="0" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"></TextBlock>
+            <TextBlock Text="B" Grid.Column="0" Grid.Row="2"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"></TextBlock>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdA1"  Tag="A1" Grid.Row="1" Grid.Column="1"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdA2"  Tag="A2" Grid.Row="1" Grid.Column="2"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdA3"  Tag="A3" Grid.Row="1" Grid.Column="3"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdA4"  Tag="A4" Grid.Row="1" Grid.Column="4"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdA5"  Tag="A5" Grid.Row="1" Grid.Column="5"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdA6"  Tag="A6" Grid.Row="1" Grid.Column="6"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdA7"  Tag="A7" Grid.Row="1" Grid.Column="7"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdA8"  Tag="A8" Grid.Row="1" Grid.Column="8"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdB1"  Tag="B1" Grid.Row="2" Grid.Column="1" Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdB2"  Tag="B2" Grid.Row="2" Grid.Column="2" Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdB3"  Tag="B3" Grid.Row="2" Grid.Column="3" Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdB4"  Tag="B4" Grid.Row="2" Grid.Column="4" Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdB5"  Tag="B5" Grid.Row="2" Grid.Column="5"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdB6"  Tag="B6" Grid.Row="2" Grid.Column="6"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdB7"  Tag="B7" Grid.Row="2" Grid.Column="7"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>
+            <CheckBox  Style="{DynamicResource rbButtonsCheckBoxStd}" Name="gdB8"  Tag="B8" Grid.Row="2" Grid.Column="8"  Checked="gdA1_Checked" Unchecked="gdA1_Unchecked"></CheckBox>-->
+
+            <StackPanel Grid.Row="0" Grid.ColumnSpan="9" Orientation="Vertical" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0,20,0,0">
+                <StackPanel Orientation="Horizontal">
+
+                    <TextBlock Text="Standards" VerticalAlignment="Center" Margin="20,0,2,0" Width="77" FontSize="16"></TextBlock>
+                    <TextBlock Name="txtSelect" Text="Unkowns" VerticalAlignment="Center" Margin="320,0,20,0" Width="80" FontSize="16"></TextBlock>
+                    <!--<RadioButton Name="rbAddStd" Style="{DynamicResource rbButtons}"  Click="Add_Std" Grid.Column="1" Content="Add to Standard" Width="121" Height="30" HorizontalAlignment="Right" Margin="0,0,20,0" ></RadioButton>
+                    <RadioButton Name="rbAddUnk" Style="{DynamicResource rbButtons}"  Click="Add_Unk" Grid.Column="1" Content="Add to Unknown" Width="112" Height="30" HorizontalAlignment="Right" Margin="240,0,20,0" ></RadioButton>-->
+                </StackPanel>
+
+                <!--<StackPanel Orientation="Horizontal" Margin="400,0,0,0">
+                    <Border Width="30" Height="30" Background="#4472C4" CornerRadius="100" Margin="25,0,30,0"></Border>
+                    <TextBlock Text="图例说明，点击两次为未知样品" VerticalAlignment="Center"></TextBlock>
+                </StackPanel>-->
+
+            </StackPanel>
+            <!--<StackPanel Grid.Row="4" Grid.ColumnSpan="9" Orientation="Vertical" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0,20,0,0">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="起始拷贝数：" Width="100" VerticalAlignment="Center" Margin="25,0,0,0"></TextBlock>
+                    <TextBox Width="150" Height="30" VerticalContentAlignment="Center"></TextBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <TextBlock Text="拷贝数梯度间隔：" Width="100" VerticalAlignment="Center" Margin="25,0,0,0"></TextBlock>
+                    <TextBox Width="150" Height="30" VerticalContentAlignment="Center"></TextBox>
+                </StackPanel>
+
+            </StackPanel>-->
+
+            <ScrollViewer Grid.Row="1" Grid.Column="0" Grid.RowSpan="4" Grid.ColumnSpan="4" Margin="0,10,0,10" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Hidden">
+                <Grid Grid.Row="1" Grid.ColumnSpan="4" Name="gridStd" Margin="10,10,10,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.15*"></ColumnDefinition>
+                        <ColumnDefinition Width="0.64*"></ColumnDefinition>
+                        <ColumnDefinition Width="0.52*"></ColumnDefinition>
+                        <ColumnDefinition Width="0.48*"></ColumnDefinition>
+                        <ColumnDefinition Width="0.53*"></ColumnDefinition>
+                        <!--<ColumnDefinition Width="0.15*"></ColumnDefinition>-->
+                        <!--<ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>-->
+                    </Grid.ColumnDefinitions>
+                    <Border Grid.ColumnSpan="6" Background="#ED7D31" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="0" Grid.ColumnSpan="6" Background="White" Height="3" VerticalAlignment="Bottom" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="1" Grid.ColumnSpan="6" Background="#CFD5EA" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="3" Grid.ColumnSpan="6" Background="#CFD5EA" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="5" Grid.ColumnSpan="6" Background="#CFD5EA" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="7" Grid.ColumnSpan="6" Background="#CFD5EA" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="9" Grid.ColumnSpan="6" Background="#CFD5EA" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="11" Grid.ColumnSpan="6" Background="#CFD5EA" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="13" Grid.ColumnSpan="6" Background="#CFD5EA" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="15" Grid.ColumnSpan="6" Background="#CFD5EA" Margin="0,0,0.334,0"></Border>
+                    <!--<Border Grid.Row="1" Grid.ColumnSpan="5" Background="White" Height="3" VerticalAlignment="Bottom"></Border>
+                <Border Grid.Row="2" Grid.ColumnSpan="5" Background="White" Height="3" VerticalAlignment="Bottom"></Border>
+                <Border Grid.Row="3" Grid.ColumnSpan="5" Background="White" Height="3" VerticalAlignment="Bottom"></Border>-->
+                    <Border Grid.Row="2" Grid.ColumnSpan="6" Background="#E9EBF5" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="4" Grid.ColumnSpan="6" Background="#E9EBF5" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="6" Grid.ColumnSpan="6" Background="#E9EBF5" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="8" Grid.ColumnSpan="6" Background="#E9EBF5" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="10" Grid.ColumnSpan="6" Background="#E9EBF5" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="12" Grid.ColumnSpan="6" Background="#E9EBF5" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="14" Grid.ColumnSpan="6" Background="#E9EBF5" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.Row="16" Grid.ColumnSpan="6" Background="#E9EBF5" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="1" HorizontalAlignment="Right" Width="3" Background="White" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="2" HorizontalAlignment="Right" Width="3" Background="White" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="3" HorizontalAlignment="Right" Width="3" Background="White" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="5" HorizontalAlignment="Right" Width="3" Background="White" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="5" HorizontalAlignment="Right" Width="3" Background="White" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="5" HorizontalAlignment="Right" Width="3" Background="White" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="5" HorizontalAlignment="Right" Width="3" Background="White" Margin="0,0,0.334,0"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="5" HorizontalAlignment="Right" Width="3" Background="White" Margin="0,0,0.334,0"></Border>
+                    <TextBlock Text="Well" Grid.Column="1" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold" Margin="0.333,6,14.334,6"></TextBlock>
+                    <TextBlock Text="Type" Grid.Column="2" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold" Margin="10.666,6,9.334,6"></TextBlock>
+                    <TextBlock Text="Quantity" Grid.Column="3" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold" Margin="10.666,6,10.334,6"></TextBlock>
+                    <TextBlock Text="Ct" Grid.Column="4" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold" Margin="26.666,6,10.667,6"/>
+                    <!--<TextBlock Text="4" Grid.Column="4" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                <TextBlock Text="5" Grid.Column="5" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                <TextBlock Text="6" Grid.Column="6" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                <TextBlock Text="7" Grid.Column="7" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                <TextBlock Text="8" Grid.Column="8" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>-->
+                    <TextBlock Text="" Name="txtStd1"  Grid.Column="1" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd2"  Grid.Column="1" Grid.Row="2"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd3"  Grid.Column="1" Grid.Row="3"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd4"  Grid.Column="1" Grid.Row="4"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd5"  Grid.Column="1" Grid.Row="5"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd6"  Grid.Column="1" Grid.Row="6"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd7"  Grid.Column="1" Grid.Row="7"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd8"  Grid.Column="1" Grid.Row="8"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd9"  Grid.Column="1" Grid.Row="9"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd10"  Grid.Column="1" Grid.Row="10"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd11"  Grid.Column="1" Grid.Row="11"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd12"  Grid.Column="1" Grid.Row="12"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd13"  Grid.Column="1" Grid.Row="13"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd14"  Grid.Column="1" Grid.Row="14"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd15"  Grid.Column="1" Grid.Row="15"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    <TextBlock Text="" Name="txtStd16"  Grid.Column="1" Grid.Row="16"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="26.333,7,40.334,7"></TextBlock>
+                    
+                    
+                    
+                    
+                    <!--<Grid Name="gdA11"  Tag="A1" Grid.Row="1" Grid.Column="1"></Grid>-->
+                    <TextBlock Text="Std" Name="txtStTp1"  Grid.Column="2" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp2"  Grid.Column="2" Grid.Row="2"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp3"  Grid.Column="2" Grid.Row="3"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp4"  Grid.Column="2" Grid.Row="4"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp5"  Grid.Column="2" Grid.Row="5"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp6"  Grid.Column="2" Grid.Row="6"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp7"  Grid.Column="2" Grid.Row="7"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp8"  Grid.Column="2" Grid.Row="8"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp9"  Grid.Column="2" Grid.Row="9"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp10"  Grid.Column="2" Grid.Row="10"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp11"  Grid.Column="2" Grid.Row="11"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp12"  Grid.Column="2" Grid.Row="12"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp13"  Grid.Column="2" Grid.Row="13"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp14"  Grid.Column="2" Grid.Row="14"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp15"  Grid.Column="2" Grid.Row="15"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+                    <TextBlock Text="Std" Name="txtStTp16"  Grid.Column="2" Grid.Row="16"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="17.666,7,17.334,7"></TextBlock>
+
+
+                    <TextBlock Text="0" Name="txtStdCt1"  Grid.Column="4" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt2"  Grid.Column="4" Grid.Row="2"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt3"  Grid.Column="4" Grid.Row="3"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt4"  Grid.Column="4" Grid.Row="4"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt5"  Grid.Column="4" Grid.Row="5"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt6"  Grid.Column="4" Grid.Row="6"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt7"  Grid.Column="4" Grid.Row="7"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt8"  Grid.Column="4" Grid.Row="8"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt9"  Grid.Column="4" Grid.Row="9"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt10"  Grid.Column="4" Grid.Row="10"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt11"  Grid.Column="4" Grid.Row="11"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt12"  Grid.Column="4" Grid.Row="12"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt13"  Grid.Column="4" Grid.Row="13"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt14"  Grid.Column="4" Grid.Row="14"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt15"  Grid.Column="4" Grid.Row="15"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    <TextBlock Text="0" Name="txtStdCt16"  Grid.Column="4" Grid.Row="16"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="36.666,7,9.667,7"></TextBlock>
+                    
+                    
+                    
+                    <!--<TextBlock Name="gdA11" Text="Std" Tag="A1" Grid.Row="1" Grid.Column="1" Margin="8"></TextBlock>
+                <Grid Name="gdA21"  Tag="A2" Grid.Row="1" Grid.Column="2"></Grid>-->
+                    <TextBlock Name="txtStdConc1" Text="1" Tag="conc1" Grid.Row="1" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc2" Text="1" Tag="conc2" Grid.Row="2" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc3" Text="1" Tag="conc3" Grid.Row="3" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc4" Text="1" Tag="conc4" Grid.Row="4" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc5" Text="1" Tag="conc5" Grid.Row="5" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc6" Text="1" Tag="conc6" Grid.Row="6" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc7" Text="1" Tag="conc7" Grid.Row="7" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc8" Text="1" Tag="conc8" Grid.Row="8" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc9" Text="1" Tag="conc9" Grid.Row="9" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc10" Text="1" Tag="conc10" Grid.Row="10" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc11" Text="1" Tag="conc11" Grid.Row="11" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc12" Text="1" Tag="conc12" Grid.Row="12" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc13" Text="1" Tag="conc13" Grid.Row="13" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc14" Text="1" Tag="conc14" Grid.Row="14" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc15" Text="1" Tag="conc15" Grid.Row="15" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <TextBlock Name="txtStdConc16" Text="1" Tag="conc16" Grid.Row="16" Grid.Column="3" VerticalAlignment="Center"  TextWrapping="Wrap" Margin="4.666,5,5.334,5"></TextBlock>
+                    <!--<Grid Name="gdA31"  Tag="A3" Grid.Row="1" Grid.Column="3"></Grid>-->
+                    <TextBlock Name="gdA31"  Grid.Column="4" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13" Margin="39.666,7,13.667,7"></TextBlock>
+                    <!--<Grid Name="gdA41"  Tag="A4" Grid.Row="1" Grid.Column="4"></Grid>
+                <Grid Name="gdA51"  Tag="A5" Grid.Row="1" Grid.Column="5"></Grid>
+                <Grid Name="gdA61"  Tag="A6" Grid.Row="1" Grid.Column="6"></Grid>
+                <Grid Name="gdA71"  Tag="A7" Grid.Row="1" Grid.Column="7"></Grid>
+                <Grid Name="gdA81"  Tag="A8" Grid.Row="1" Grid.Column="8"></Grid>
+                <Grid Name="gdB11"  Tag="B1" Grid.Row="2" Grid.Column="1"></Grid>
+                <Grid Name="gdB21"  Tag="B2" Grid.Row="2" Grid.Column="2"></Grid>
+                <Grid Name="gdB31"  Tag="B3" Grid.Row="2" Grid.Column="3"></Grid>
+                <Grid Name="gdB41"  Tag="B4" Grid.Row="2" Grid.Column="4"></Grid>
+                <Grid Name="gdB51"  Tag="B5" Grid.Row="2" Grid.Column="5"></Grid>
+                <Grid Name="gdB61"  Tag="B6" Grid.Row="2" Grid.Column="6"></Grid>
+                <Grid Name="gdB71"  Tag="B7" Grid.Row="2" Grid.Column="7"></Grid>
+                <Grid Name="gdB81"  Tag="B8" Grid.Row="2" Grid.Column="8"></Grid>-->
+
+                </Grid>
+            </ScrollViewer>
+
+            <ScrollViewer Grid.Row="1" Grid.Column="4" Grid.RowSpan="4" Grid.ColumnSpan="5" Margin="0,10,0,10" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Hidden">
+                <Grid Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="5" Name="gridUnk" Margin="40,10,10,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                        <RowDefinition Height="32"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                        <ColumnDefinition Width="0.08*"></ColumnDefinition>
+                        <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                        <ColumnDefinition Width="0.18*"></ColumnDefinition>
+                        <ColumnDefinition Width="0.03*"></ColumnDefinition>
+                        <!--<ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>-->
+                    </Grid.ColumnDefinitions>
+                    <Border Grid.ColumnSpan="5" Background="#4472C4"></Border>
+                    <Border Grid.Row="0" Grid.ColumnSpan="5" Background="White" Height="3" VerticalAlignment="Bottom"></Border>
+                    <Border Grid.Row="1" Grid.ColumnSpan="5" Background="#CFD5EA"></Border>
+                    <Border Grid.Row="3" Grid.ColumnSpan="5" Background="#CFD5EA"></Border>
+                    <Border Grid.Row="5" Grid.ColumnSpan="5" Background="#CFD5EA"></Border>
+                    <Border Grid.Row="7" Grid.ColumnSpan="5" Background="#CFD5EA"></Border>
+                    <Border Grid.Row="9" Grid.ColumnSpan="5" Background="#CFD5EA"></Border>
+                    <Border Grid.Row="11" Grid.ColumnSpan="5" Background="#CFD5EA"></Border>
+                    <Border Grid.Row="13" Grid.ColumnSpan="5" Background="#CFD5EA"></Border>
+                    <Border Grid.Row="15" Grid.ColumnSpan="5" Background="#CFD5EA"></Border>
+
+                    <!--<Border Grid.Row="1" Grid.ColumnSpan="5" Background="White" Height="3" VerticalAlignment="Bottom"></Border>
+                <Border Grid.Row="2" Grid.ColumnSpan="5" Background="White" Height="3" VerticalAlignment="Bottom"></Border>
+                <Border Grid.Row="3" Grid.ColumnSpan="5" Background="White" Height="3" VerticalAlignment="Bottom"></Border>-->
+                    <Border Grid.Row="2" Grid.ColumnSpan="5" Background="#E9EBF5"></Border>
+                    <Border Grid.Row="4" Grid.ColumnSpan="5" Background="#E9EBF5"></Border>
+                    <Border Grid.Row="6" Grid.ColumnSpan="5" Background="#E9EBF5"></Border>
+                    <Border Grid.Row="8" Grid.ColumnSpan="5" Background="#E9EBF5"></Border>
+                    <Border Grid.Row="10" Grid.ColumnSpan="5" Background="#E9EBF5"></Border>
+                    <Border Grid.Row="12" Grid.ColumnSpan="5" Background="#E9EBF5"></Border>
+                    <Border Grid.Row="14" Grid.ColumnSpan="5" Background="#E9EBF5"></Border>
+                    <Border Grid.Row="16" Grid.ColumnSpan="5" Background="#E9EBF5"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="0" HorizontalAlignment="Right" Width="3" Background="White"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="1" HorizontalAlignment="Right" Width="3" Background="White"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="2" HorizontalAlignment="Right" Width="3" Background="White"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="3" HorizontalAlignment="Right" Width="3" Background="White"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="4" HorizontalAlignment="Right" Width="3" Background="White"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="5" HorizontalAlignment="Right" Width="3" Background="White"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="6" HorizontalAlignment="Right" Width="3" Background="White"></Border>
+                    <Border Grid.RowSpan="17" Grid.Column="7" HorizontalAlignment="Right" Width="3" Background="White"></Border>
+                    <TextBlock Text="Well" Grid.Column="0" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                    <TextBlock Text="Type" Grid.Column="1" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                    <TextBlock Text="Ct" Grid.Column="2" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                    <TextBlock Text="Quantity" Grid.Column="3" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                    <TextBlock Text="-" Grid.Column="4" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                    <!--<TextBlock Text="5" Grid.Column="5" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                <TextBlock Text="6" Grid.Column="6" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                <TextBlock Text="7" Grid.Column="7" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>
+                <TextBlock Text="8" Grid.Column="8" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Bold"></TextBlock>-->
+                    <TextBlock Text="" Name="txtUnk1"  Grid.Column="0" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk2"  Grid.Column="0" Grid.Row="2"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk3"  Grid.Column="0" Grid.Row="3"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk4"  Grid.Column="0" Grid.Row="4"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk5"  Grid.Column="0" Grid.Row="5"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk6"  Grid.Column="0" Grid.Row="6"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk7"  Grid.Column="0" Grid.Row="7"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk8"  Grid.Column="0" Grid.Row="8"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk9"  Grid.Column="0" Grid.Row="9"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk10"  Grid.Column="0" Grid.Row="10"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk11"  Grid.Column="0" Grid.Row="11"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk12"  Grid.Column="0" Grid.Row="12"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk13"  Grid.Column="0" Grid.Row="13"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk14"  Grid.Column="0" Grid.Row="14"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk15"  Grid.Column="0" Grid.Row="15"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="" Name="txtUnk16"  Grid.Column="0" Grid.Row="16"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <!--<Grid Name="gdA11"  Tag="A1" Grid.Row="1" Grid.Column="1"></Grid>-->
+                    <!--<TextBox Name="gdB11"  Tag="A1" Grid.Row="1" Grid.Column="1" VerticalContentAlignment="Center"  TextWrapping="Wrap" Margin="5"></TextBox>-->
+                    <!--<Grid Name="gdA21"  Tag="A2" Grid.Row="1" Grid.Column="2"></Grid>-->
+                    <!--<TextBox Name="gdB21"  Tag="A2" Grid.Row="1" Grid.Column="2" VerticalContentAlignment="Center"  TextWrapping="Wrap" Margin="5"></TextBox>-->
+                    <!--<Grid Name="gdA31"  Tag="A3" Grid.Row="1" Grid.Column="3"></Grid>-->
+                    <!--<TextBlock Name="gdB31"  Grid.Column="3" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                <Grid Name="gdB41"  Tag="A4" Grid.Row="1" Grid.Column="4"></Grid>
+                <Grid Name="gdB51"  Tag="A5" Grid.Row="1" Grid.Column="5"></Grid>
+                <Grid Name="gdB61"  Tag="A6" Grid.Row="1" Grid.Column="6"></Grid>
+                <Grid Name="gdB71"  Tag="A7" Grid.Row="1" Grid.Column="7"></Grid>
+                <Grid Name="gdB81"  Tag="A8" Grid.Row="1" Grid.Column="8"></Grid>-->
+                    <!--<Grid Name="gdB11"  Tag="B1" Grid.Row="2" Grid.Column="1"></Grid>
+                <Grid Name="gdB21"  Tag="B2" Grid.Row="2" Grid.Column="2"></Grid>
+                <Grid Name="gdB31"  Tag="B3" Grid.Row="2" Grid.Column="3"></Grid>
+                <Grid Name="gdB41"  Tag="B4" Grid.Row="2" Grid.Column="4"></Grid>
+                <Grid Name="gdB51"  Tag="B5" Grid.Row="2" Grid.Column="5"></Grid>
+                <Grid Name="gdB61"  Tag="B6" Grid.Row="2" Grid.Column="6"></Grid>
+                <Grid Name="gdB71"  Tag="B7" Grid.Row="2" Grid.Column="7"></Grid>
+                <Grid Name="gdB81"  Tag="B8" Grid.Row="2" Grid.Column="8"></Grid>-->
+
+                    <TextBlock Text="Unk" Name="txtUnTp1"  Grid.Column="1" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp2"  Grid.Column="1" Grid.Row="2"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp3"  Grid.Column="1" Grid.Row="3"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp4"  Grid.Column="1" Grid.Row="4"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp5"  Grid.Column="1" Grid.Row="5"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp6"  Grid.Column="1" Grid.Row="6"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp7"  Grid.Column="1" Grid.Row="7"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp8"  Grid.Column="1" Grid.Row="8"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp9"  Grid.Column="1" Grid.Row="9"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp10"  Grid.Column="1" Grid.Row="10"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp11"  Grid.Column="1" Grid.Row="11"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp12"  Grid.Column="1" Grid.Row="12"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp13"  Grid.Column="1" Grid.Row="13"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp14"  Grid.Column="1" Grid.Row="14"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp15"  Grid.Column="1" Grid.Row="15"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="Unk" Name="txtUnTp16"  Grid.Column="1" Grid.Row="16"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+
+                    <TextBlock Text="0" Name="txtUnkCt1"  Grid.Column="2" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt2"  Grid.Column="2" Grid.Row="2"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt3"  Grid.Column="2" Grid.Row="3"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt4"  Grid.Column="2" Grid.Row="4"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt5"  Grid.Column="2" Grid.Row="5"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt6"  Grid.Column="2" Grid.Row="6"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt7"  Grid.Column="2" Grid.Row="7"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt8"  Grid.Column="2" Grid.Row="8"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt9"  Grid.Column="2" Grid.Row="9"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt10"  Grid.Column="2" Grid.Row="10"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt11"  Grid.Column="2" Grid.Row="11"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt12"  Grid.Column="2" Grid.Row="12"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt13"  Grid.Column="2" Grid.Row="13"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt14"  Grid.Column="2" Grid.Row="14"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt15"  Grid.Column="2" Grid.Row="15"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+                    <TextBlock Text="0" Name="txtUnkCt16"  Grid.Column="2" Grid.Row="16"  VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="13"></TextBlock>
+
+                    <TextBlock Name="txtUnkConc1"  Tag="conc1" Grid.Row="1" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc2"  Tag="conc2" Grid.Row="2" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc3"  Tag="conc3" Grid.Row="3" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc4"  Tag="conc4" Grid.Row="4" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc5"  Tag="conc5" Grid.Row="5" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc6"  Tag="conc6" Grid.Row="6" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc7"  Tag="conc7" Grid.Row="7" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc8"  Tag="conc8" Grid.Row="8" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc9"  Tag="conc9" Grid.Row="9" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc10"  Tag="conc10" Grid.Row="10" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc11"  Tag="conc11" Grid.Row="11" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc12"  Tag="conc12" Grid.Row="12" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc13"  Tag="conc13" Grid.Row="13" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc14"  Tag="conc14" Grid.Row="14" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc15"  Tag="conc15" Grid.Row="15" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+                    <TextBlock Name="txtUnkConc16"  Tag="conc16" Grid.Row="16" Grid.Column="3" TextWrapping="Wrap" Margin="5"></TextBlock>
+
+                </Grid>
+            </ScrollViewer>
+
+            <Grid Grid.Row="5" Grid.ColumnSpan="9" Margin="20,10,10,0">
+                <!--<Button Click="Refresh" Content="Draw Std Curve" Width="145" HorizontalAlignment="Right" Margin="0,0,188.333,0.333"/>-->
+                <RadioButton Name="rbDrawStd" Style="{DynamicResource rbButtons}" Grid.Column="1" Content="Update Standard Curve" Width="150" Height="35" HorizontalAlignment="Left" Margin="80,-6,20,0" Visibility="Hidden"></RadioButton>
+                <!--<Button  Click="Find_unknown" Content="Find unknown" Width="116" HorizontalAlignment="Right" Margin="0, 0, -100, 0.8"/>-->
+                <RadioButton Name="rbFindUnk" Style="{DynamicResource rbButtons}"  Click="Find_unknown" Grid.Column="3" Content="Find Unknown" Width="150" Height="35" HorizontalAlignment="Left" Margin="460,0,20,0" ></RadioButton>
+
+
+            </Grid>
+
+            <Grid Grid.Row="0" Grid.ColumnSpan="1" Margin="0,0,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="44*"/>
+                    <ColumnDefinition Width="39*"/>
+                </Grid.ColumnDefinitions>
+                <!--<ComboBox Width="120" Margin="80,-36,-180,32" SelectionChanged="Chan_sel" VerticalAlignment="Center" VerticalContentAlignment="Center" Height="30" Name="cboChansel" Grid.Column="1" SelectedIndex="0">
+                    <ComboBoxItem Content="Chan 1"></ComboBoxItem>
+                    <ComboBoxItem Content="Chan 2"></ComboBoxItem>
+                    <ComboBoxItem Content="Chan 3"></ComboBoxItem>
+                    <ComboBoxItem Content="Chan 4"></ComboBoxItem>
+
+                </ComboBox>-->
+            </Grid>
+            <CheckBox Content="Update Assay Std Curve Parameters" Grid.Column="1" HorizontalAlignment="Left" Margin="10,30,0,0" Grid.Row="5" VerticalAlignment="Top" Grid.ColumnSpan="3" Checked="cbAssay_Checked" Unchecked="cbAssay_Unchecked"/>
+
+
+        </Grid>
+        <!--<TextBlock Text="Channel select:" VerticalAlignment="Center" Margin="10,10,652,14" Grid.Column="1" Grid.Row="1"/>-->
+
+    </Grid>
+</UserControl>

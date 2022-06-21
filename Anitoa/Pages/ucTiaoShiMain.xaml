@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="Anitoa.Pages.ucTiaoShiMain"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1440">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Anitoa;component/Styles/RadioButtonStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom">
+            <RadioButton Checked="rbwdxl_Checked"  Name="rbone" Style="{DynamicResource  rbButton}" Content="Main control" Margin="70,0,0,0"></RadioButton>
+            <RadioButton Checked="rbwdxl_Checked" Name="rbtwo"  Style="{DynamicResource  rbButton}"  Content="Imager parameters" Margin="30,0,30,0" ></RadioButton>
+            <RadioButton Checked="rbwdxl_Checked" Name="rbthree"  Style="{DynamicResource  rbButton}"   Content="Cyder parameters" ></RadioButton>
+        </StackPanel>
+        <Grid Grid.Row="1" Name="gdMain"></Grid>
+    </Grid>
+</UserControl>

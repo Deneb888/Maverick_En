@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="Anitoa.Pages.ucCyCling"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+           
+             d:DesignHeight="300" d:DesignWidth="160"  Height="460" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="330"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <Border Background="#E6E6F0" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Text="Cycle Period " FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock><!--循环阶段-->
+                <Border Width="20" Height="20" Margin="5,0,0,0" BorderBrush="#4E4E4E" BorderThickness="1" Background="Transparent" Cursor="Hand" Name="bdAdd" MouseLeftButtonDown="bdAdd_MouseLeftButtonDown">
+                    <TextBlock Text="+" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock><!--加-->
+                </Border>
+                <Border Width="20" Height="20" Margin="5,0,0,0" BorderBrush="#4E4E4E" BorderThickness="1" Background="Transparent" Cursor="Hand" Name="bdRemove" MouseLeftButtonDown="bdAdd_MouseLeftButtonDown">
+                    <TextBlock Text="-" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock><!--减-->
+                </Border>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="1"  Background="White" BorderThickness="0,0,0,1" BorderBrush="#808080"></Border>
+        <StackPanel Grid.Row="2" Grid.RowSpan="2"  Background="White" Name="gdMain" Orientation="Horizontal" ></StackPanel>
+        <Border Grid.Row="0" Grid.RowSpan="4"  BorderThickness="0.5,0.5,0.5,0" BorderBrush="#808080"></Border>
+        <Border Grid.Row="2" Grid.RowSpan="3"  BorderThickness="0.5,0,0.5,0" BorderBrush="#808080"></Border>
+        <StackPanel Grid.Row="1" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <StackPanel  Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                <TextBlock Text="Num Cycles " Foreground="Black" VerticalAlignment="Center" Margin="20,0,0,0" Width="70"></TextBlock><!--循环数量-->
+                <TextBox Width="52" Height="25" VerticalContentAlignment="Center" VerticalAlignment="Center" Name="txtCycle" Text="40" TextChanged="txtCycle_Changed"></TextBox>
+                <!--<CheckBox Content="拍" Name="cboPZ" IsChecked="True" VerticalAlignment="Center" Margin="5,0,0,0" Cursor="Hand"></CheckBox>-->
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="0,5,0,0">
+                <CheckBox Content="Image step " Name="cboPZ"  VerticalAlignment="Center" Margin="0,0,0,0" Cursor="Hand" Checked="cboPZ_Checked" Unchecked="cboPZ_Unchecked"></CheckBox><!--拍照阶段-->
+                <ComboBox Width="60" Name="cboPZJD" SelectionChanged="cboPZJD_SelectionChanged"></ComboBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

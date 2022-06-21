@@ -1,0 +1,82 @@
+﻿<UserControl x:Class="Anitoa.Pages.ucMain"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1440">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Anitoa;component/Styles/RadioButtonStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+           
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Border Width="160" Height="220" Background="White" CornerRadius="5" Cursor="Hand"  Name="yhsetting"  MouseLeftButtonDown="yhsetting_MouseLeftButtonDown" ToolTip="Setup experiment">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.7*"></RowDefinition>
+                        <RowDefinition Height="0.3*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Image Source="/Anitoa;component/Images/实验.png" Margin="30"></Image>
+                    <TextBlock Grid.Row="1" Text="Setup" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="#0555B8" FontSize="18"></TextBlock><!--新建实验-->
+                </Grid>
+            </Border>
+            <Border Width="160" Height="220" Background="White" CornerRadius="5" Cursor="Hand"  Margin="50,0,0,0" Name="runexp"  MouseLeftButtonDown="yhsetting_MouseLeftButtonDown" ToolTip="Run experiment">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.7*"></RowDefinition>
+                        <RowDefinition Height="0.3*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Image Source="/Anitoa;component/Images/调试.png" Margin="30"></Image>
+                    <TextBlock Grid.Row="1" Text="Run" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="#0555B8" FontSize="18"></TextBlock>
+                    <!--新建实验-->
+                </Grid>
+            </Border>
+            <Border  Width="160" Height="220" Background="White" CornerRadius="5" Cursor="Hand"  Margin="50,0,50,0" Name="fenxidata" MouseLeftButtonDown="yhsetting_MouseLeftButtonDown" ToolTip="Analyze experiment data">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.7*"></RowDefinition>
+                        <RowDefinition Height="0.3*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Image Source="/Anitoa;component/Images/分析.png" Margin="30"></Image>
+                    <TextBlock Grid.Row="1" Text="Analysis" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="#0555B8" FontSize="18"></TextBlock><!--分析数据-->
+                </Grid>
+            </Border>
+            <Border  Width="160" Height="220" Background="White" CornerRadius="5" Cursor="Hand"  Margin="0,0,0,0" Name="baogaodayin" MouseLeftButtonDown="yhsetting_MouseLeftButtonDown" ToolTip="Summary and report">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.7*"></RowDefinition>
+                        <RowDefinition Height="0.3*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Image Source="/Anitoa;component/Images/报告.png" Margin="30"></Image>
+                    <TextBlock Grid.Row="1" Text="Report" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="#0555B8" FontSize="18"></TextBlock><!--报告/打印-->
+                </Grid>
+            </Border>
+            <Border  Width="160" Height="220" Background="White" CornerRadius="5" Name="xitongtiaoshi" MouseLeftButtonDown="yhsetting_MouseLeftButtonDown" Margin="50,0,0,0" Visibility="Collapsed">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.7*"></RowDefinition>
+                        <RowDefinition Height="0.3*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Image Source="/Anitoa;component/Images/调试.png" Margin="30"></Image>
+                    <TextBlock Grid.Row="1" Text="[Debug]" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="#0555B8" FontSize="18"></TextBlock>
+                </Grid>
+            </Border>
+        </StackPanel>
+        <!--<RadioButton Name="yhsetting" HorizontalAlignment="Right" GroupName="xtmenu" Click="RadioButton_Click" Grid.Row="1" Style="{DynamicResource rbMin}" Content="新建实验"></RadioButton>
+        <RadioButton Name="fenxidata" Click="RadioButton_Click" GroupName="xtmenu" Grid.Row="1" Grid.Column="1" Style="{DynamicResource rbMin}" Content="分析数据"></RadioButton>
+        <RadioButton Name="baogaodayin" Click="RadioButton_Click" HorizontalAlignment="Left" GroupName="xtmenu" Grid.Row="1" Grid.Column="2" Style="{DynamicResource rbMin}" Content="报告/打印"></RadioButton>
+        <RadioButton Name="xitongtiaoshi" Click="RadioButton_Click" HorizontalAlignment="Right" GroupName="xtmenu" Grid.Row="2" Style="{DynamicResource rbMin}" Content="系统调试"></RadioButton>-->
+        <!--<RadioButton GroupName="xtmenu" Grid.Row="2" Grid.Column="1" Style="{DynamicResource rbMin}" Content="运行报告"></RadioButton>
+        <RadioButton HorizontalAlignment="Left" GroupName="xtmenu" Grid.Row="2" Grid.Column="2" Style="{DynamicResource rbMin}" Content="系统调试"></RadioButton>-->
+    </Grid>
+</UserControl>
