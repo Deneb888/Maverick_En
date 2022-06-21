@@ -171,7 +171,7 @@ namespace Anitoa
         public static string[] stdEff = new string[MAX_CHAN];
         public static int stdUnitIndex;
 
-        public static string verInfo = "Release 1.07 (April 11, 2022)";
+        public static string verInfo = "Release 1.08 (June 20, 2022)";
 
         public static int remainTime = 0;       // remaining time in s, can be negative
 
