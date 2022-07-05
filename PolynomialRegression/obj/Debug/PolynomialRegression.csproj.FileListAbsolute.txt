@@ -223,3 +223,9 @@ C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic
 C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
 C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
 C:\Users\zding\Documents\WorkArea\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\bin\Debug\PolynomialRegression.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\obj\Debug\PolynomialRegression.pdb
