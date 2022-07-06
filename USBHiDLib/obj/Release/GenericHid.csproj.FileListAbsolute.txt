@@ -225,3 +225,10 @@ D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\G
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb

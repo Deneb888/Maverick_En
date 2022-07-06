@@ -283,3 +283,8 @@ D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\ob
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.dll
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.pdb
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\bin\Release\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\bin\Release\PolynomialRegression.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.pdb

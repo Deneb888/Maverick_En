@@ -25,6 +25,7 @@
 // #define GAP_REMOVE
 
 #define EXT_OUTLIER_REMOVAL
+#define FAKE_DENORM
 
 
 using System;
@@ -1178,7 +1179,27 @@ namespace Anitoa
                         }
                         continue;
                     }
-
+#if FAKE_DENORM
+                    if (!m_falsePositive[iy, frameindex])
+                    {
+                        if (norm_top)
+                        {
+                            for (int i = 0; i < size; i++)
+                            {
+                                m_zData[iy, frameindex, i] = m_zData[iy, frameindex, i] * NORM_TOP_VAL / k[frameindex, iy];
+                                m_zData2[iy, frameindex, i] = m_zData2[iy, frameindex, i] * NORM_TOP_VAL / k[frameindex, iy];
+                            }
+                        }
+                        else
+                        {
+                            for (int i = 0; i < size; i++)
+                            {
+                                m_zData[iy, frameindex, i] += 0.9 * (m_zData[iy, frameindex, i] * NORM_TOP_VAL / k[frameindex, iy] - m_zData[iy, frameindex, i]);
+                                m_zData2[iy, frameindex, i] += 0.9 * (m_zData2[iy, frameindex, i] * NORM_TOP_VAL / k[frameindex, iy] - m_zData2[iy, frameindex, i]);
+                            }
+                        }
+                    }
+#else
                     if (norm_top && !m_falsePositive[iy, frameindex])
                     {
                         for (int i = 0; i < size; i++)
@@ -1187,6 +1208,7 @@ namespace Anitoa
                             m_zData2[iy, frameindex, i] = m_zData2[iy, frameindex, i] * NORM_TOP_VAL / k[frameindex, iy];
                         }
                     }
+#endif
                     else if (m_falsePositive[iy, frameindex])       // If false positive, I will suppress it
                     {
                         for (int i = 0; i < size; i++)

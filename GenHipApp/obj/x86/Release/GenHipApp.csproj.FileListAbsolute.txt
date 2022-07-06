@@ -636,3 +636,16 @@ D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\GenHipApp\obj\x86\Relea
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csproj.CopyComplete
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.exe
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\bin\Release\GenHipApp.exe.config
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\bin\Release\GenHipApp.exe
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\bin\Release\GenHipApp.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\obj\x86\Release\Synoxo.USBHidDevice.FrmMain.resources
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\obj\x86\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csproj.CopyComplete
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.exe
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.pdb

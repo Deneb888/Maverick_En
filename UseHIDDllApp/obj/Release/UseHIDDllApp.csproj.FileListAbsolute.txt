@@ -448,3 +448,16 @@ D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Releas
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csproj.CopyComplete
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.exe
 D:\From P1\English\Anitoa8-16-21-Eng-HiCt\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\bin\Release\UseHIDDllApp.exe.config
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\bin\Release\UseHIDDllApp.exe
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\bin\Release\UseHIDDllApp.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\obj\Release\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\obj\Release\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.exe
+C:\Users\zding\Documents\WorkArea\Git test\Maverick_En\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.pdb
