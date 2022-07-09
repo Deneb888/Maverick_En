@@ -175,6 +175,8 @@ namespace Anitoa
 
         public static int remainTime = 0;       // remaining time in s, can be negative
 
+        public static string openFileName = null;
+
         public static bool ReadDatapositionFile()
         {
             //判断相应月份文件夹是否存在，没有则创建

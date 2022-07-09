@@ -100,7 +100,7 @@ namespace Anitoa.Pages
                     rbStop.Opacity = 1.0;
                 }
 
-                DrawLineNew();
+//                DrawLineNew();
 #endif
 
                 //                ReadCCurveShow();
@@ -434,7 +434,8 @@ namespace Anitoa.Pages
 
             //XdcAxisRange.MinValue = stmp;
             //XdcAxisRange.MaxValue = etmp + 3;
-            
+
+            DrawLineNew();
         }
 
         public void InitCheckStatus()

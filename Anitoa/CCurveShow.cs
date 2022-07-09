@@ -96,7 +96,7 @@ namespace Anitoa
 
         private double NEG_SLOPE_START = -0.5;
         private double NORM_TOP_VAL = 50;               // 50 * 100 = 5000
-
+        private double DENORM_FACTOR = 0.75;
 
         public void InitData()
         {
@@ -1194,8 +1194,8 @@ namespace Anitoa
                         {
                             for (int i = 0; i < size; i++)
                             {
-                                m_zData[iy, frameindex, i] += 0.9 * (m_zData[iy, frameindex, i] * NORM_TOP_VAL / k[frameindex, iy] - m_zData[iy, frameindex, i]);
-                                m_zData2[iy, frameindex, i] += 0.9 * (m_zData2[iy, frameindex, i] * NORM_TOP_VAL / k[frameindex, iy] - m_zData2[iy, frameindex, i]);
+                                m_zData[iy, frameindex, i] += DENORM_FACTOR * (m_zData[iy, frameindex, i] * NORM_TOP_VAL / k[frameindex, iy] - m_zData[iy, frameindex, i]);
+                                m_zData2[iy, frameindex, i] += DENORM_FACTOR * (m_zData2[iy, frameindex, i] * NORM_TOP_VAL / k[frameindex, iy] - m_zData2[iy, frameindex, i]);
                             }
                         }
                     }

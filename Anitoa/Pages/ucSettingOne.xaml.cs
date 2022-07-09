@@ -424,6 +424,7 @@ namespace Anitoa.Pages
                     string path = pOpenFileDialog.FileName;
                     //string setdatapath = AppDomain.CurrentDomain.BaseDirectory + pOpenFileDialog.SafeFileName;
                     CommData.experimentModelData = JsonConvert.DeserializeObject<experiment>(File.ReadAllText(path));
+                    CommData.openFileName = path;
 
                     if (!bLoadTmpl && CommData.flash_loaded)
                     {
@@ -445,6 +446,11 @@ namespace Anitoa.Pages
                             CommData.experimentModelData.dpStr = CommData.dpstr;                        // Restore HW info from the current set
 
                         CommData.experimentModelData.DebugLog = null;
+
+                        CommData.diclist.Clear();
+                        CommData.F_Path = null;
+                        CommData.F_Path2 = null;
+
                     }
                     else
                     {

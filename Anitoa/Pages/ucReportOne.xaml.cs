@@ -71,13 +71,14 @@ namespace Anitoa.Pages
             }
 
             txtInstID.Text = ascii + "-" + CommData.sn1.ToString() + "-" + CommData.sn2.ToString();
-            txtNumWell.Text = CommData.KsIndex.ToString();
+            txtNumWell.Text = CommData.KsIndex.ToString() + "(" + CommData.well_format.ToString() + ")";
             txtNumChan.Text = CommData.TdIndex.ToString();
             txtExpName.Text = CommData.experimentModelData.emname;
             txtStartTime.Text = CommData.experimentModelData.emdatetime.ToString();
             txtEndTime.Text = CommData.experimentModelData.endatetime.ToString();
             txtMeltStartTime.Text = CommData.experimentModelData.meltemdatetime.ToString();
             txtMeltEndTime.Text = CommData.experimentModelData.meltendatetime.ToString();
+            txtFileName.Text = CommData.openFileName;
 
             cboTmpl.IsChecked = false;
             saveTemplate = false;               // this is probably not necessary

@@ -71,17 +71,9 @@ namespace Anitoa.Pages
             InitData();
 
             // Zhimin added: default use current running data
-            if (!string.IsNullOrEmpty(CommData.F_Path))
+            if (!string.IsNullOrEmpty(CommData.F_Path) && File.Exists(CommData.F_Path))
             {
-                if (File.Exists(CommData.F_Path))
-                {
-                    ReadFileNew(CommData.F_Path, 0);
-                }
-                else
-                {
-                    ParseDicList();
-                }
-
+                ReadFileNew(CommData.F_Path, 0);
                 ReadCCurveShow();
                 DrawLineNew();
             }
@@ -92,14 +84,11 @@ namespace Anitoa.Pages
                     ReadCCurveShow();
                     DrawLineNew();
                 }
+                else
+                {
+                    ClearDrawArea();
+                }
             }
-
-            /*            else
-                        {
-                            ReadFileNew(".\\ImgData\\Test.txt", 0);
-                            ReadCCurveShow();
-                        }
-            */
 
             CommData.run1MeltMode = false;
         }
@@ -1199,6 +1188,13 @@ namespace Anitoa.Pages
             Grid grid = sender as Grid;
             string chan = "Chip#2";
             DrawLine(chan, 4, grid.Tag.ToString());
+        }
+
+        public void ClearDrawArea()
+        {
+            dcXYDiagram2D.Series.Clear();
+            dcXYDiagram2D.ActualAxisX.ConstantLinesInFront.Clear();
+            dcXYDiagram2D.ActualAxisY.ConstantLinesInFront.Clear();
         }
 
         public void DrawLineNew()

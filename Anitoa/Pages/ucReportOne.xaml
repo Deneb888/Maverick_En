@@ -27,9 +27,9 @@ xmlns:dxc="clr-namespace:DevExpress.Xpf.Charts;assembly=DevExpress.Xpf.Charts.v1
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="110,25,0,145" Width="610" >
             <TextBlock Text="Instrument ID:" VerticalAlignment="Center" Width ="85" Margin="0,0,0,0"/>
             <TextBlock Name="txtInstID" Text="--" VerticalAlignment="Center" Margin="0,27,0,27.4" />
-            <TextBlock Text="Num. Wells:" VerticalAlignment="Center" Margin="20,0,0,0"/>
+            <TextBlock Text="Wells(format):" VerticalAlignment="Center" Margin="20,0,0,0"/>
             <TextBlock Name="txtNumWell" Text="--" VerticalAlignment="Center" Margin="10,0,0,0"/>
-            <TextBlock Text="Num. Channels:" VerticalAlignment="Center" Margin="20,0,0,0"/>
+            <TextBlock Text="Channels:" VerticalAlignment="Center" Margin="20,0,0,0"/>
             <TextBlock Name="txtNumChan" Text="--" VerticalAlignment="Center" Margin="10,0,0,0"/>
         </StackPanel>
         <Grid Grid.Row="1" Margin="110,0,0,0" HorizontalAlignment="Left" Width="500" Grid.RowSpan="2">
@@ -449,9 +449,13 @@ xmlns:dxc="clr-namespace:DevExpress.Xpf.Charts;assembly=DevExpress.Xpf.Charts.v1
             <TextBlock Text="2018/05/25 15:30" VerticalAlignment="Center" />
             <TextBlock Text="耗时：" VerticalAlignment="Center" Margin="20,0,0,0"/>
             <TextBlock Text="01:30" VerticalAlignment="Center" />-->
-            <TextBlock Text="Experiment Name:" VerticalAlignment="Top" Margin="0,108,0,0" Width="112" HorizontalAlignment="Left"/>
-            <TextBlock Name ="txtExpName" Text="--" VerticalAlignment="Top" Margin="0,108" />
-
+            <TextBlock Text="Experiment Name:" VerticalAlignment="Top" Margin="0,112,0,0" Width="104" HorizontalAlignment="Left"/>
+            <TextBlock Name ="txtExpName" Text="--" VerticalAlignment="Top" Margin="0,112" />
+            
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="80,20,0,0" Width="610" >
+            <TextBlock Text="File Name:" VerticalAlignment="Top" Margin="30,64,0,0" Width="64" HorizontalAlignment="Left"/>
+            <TextBlock Name ="txtFileName" Text="--" VerticalAlignment="Top" Margin="10,64" />
         </StackPanel>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="110,125,0,36" Width="610" >
             <TextBlock Text="PCR Starting Time:" VerticalAlignment="Center" Margin="0,16,0,0"/>
