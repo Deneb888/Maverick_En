@@ -6013,7 +6013,7 @@ namespace Anitoa
                     switch (i)
                     {
                         case 0:
-                            top = 0.5f;
+                            top = 0.7f;
                             t_factor = 1.0f;
                             break;
                         case 1:
